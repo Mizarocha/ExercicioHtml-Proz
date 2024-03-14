@@ -1,0 +1,90 @@
+body{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.titulo{
+   font-size: 25px;
+   font-weight: 500;
+    margin: 15px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color:blueviolet;
+}
+
+
+.card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px;
+  }
+  
+  .card p {
+    color: #333;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  .card blockquote {
+    font-style: italic;
+  }
+  
+  .card blockquote span {
+    color: red;
+  }
+  
+/* Estilos para o carrossel */
+/*.carousel {
+    width: 100%;
+  }*/
+  
+  .carousel-item img {
+    width: 200px;
+     height: 800px; 
+  }
+  
+  .carousel-control-prev,
+  .carousel-control-next {
+    width: auto;
+    background: transparent;
+    border: none;
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .carousel-control-prev-icon:hover,
+  .carousel-control-next-icon:hover {
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  
+  .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+  }
+  
+  .footer {
+    /* text-align: center; */
+    margin-bottom: 15px;
+    /* background-color: aqua; */
+    padding: 5px;
+
+  }
+  .footer h5 {
+    text-align: center;
+    height: 1rem;
+    color: blueviolet;
+
+  }
