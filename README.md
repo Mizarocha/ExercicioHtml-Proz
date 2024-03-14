@@ -13,7 +13,7 @@
 - Ilustração do projeto:
   
    <div align="center">
-   <img    width="600" height="400" src="https://github.com/Mizarocha/ExercicioHtml-Proz/assets/88461178/c6065cca-b2ea-4e96-8d70-a252d6de9444">
+   <img  width="600" height="400" src="https://github.com/Mizarocha/ExercicioHtml-Proz/assets/88461178/c6065cca-b2ea-4e96-8d70-a252d6de9444">
    </div>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -33,3 +33,7 @@
  
 
  Abuse de sua criatividade para a criação da página!
+
+  Confira o link do Site: 👇
+
+- [x] <a href="https://exercicio-html-proz-1xhc.vercel.app/" target="_blank">Deploy</a>
