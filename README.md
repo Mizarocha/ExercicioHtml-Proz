@@ -7,10 +7,12 @@
 
   Confira o link do Site: 👇
 
-- [x] [Deploy](https://exercicio-html-proz.vercel.app/)
+- [x] <a href="https://exercicio-html-proz.vercel.app/" target="_blank">Deploy</a>
 
   </br>
 - Ilustração do projeto:
   
-   
-![projeto](https://github.com/Mizarocha/ExercicioHtml-Proz/assets/88461178/c6065cca-b2ea-4e96-8d70-a252d6de9444) 
+   <div align="center">
+   <img  src="https://github.com/Mizarocha/ExercicioHtml-Proz/assets/88461178/c6065cca-b2ea-4e96-8d70-a252d6de9444">
+   </div>
+
