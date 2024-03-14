@@ -1,0 +1,95 @@
+body {
+    background-color: #b7c8c2;
+}
+
+
+/* Estilos para o header */
+.header {
+    text-align: center;
+    padding: 20px;
+  }
+
+.titulo{
+    text-align: center;
+    margin: 15px;
+   font-size: 30px;
+   font-weight: 600;
+   color: black;
+}
+
+/* Estilos para os cards */
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    width: 760px;
+    box-shadow: 0 45px 66px rgba(1, 1, 1, 0.2);
+}
+
+.card img{
+
+    border-radius: 2rem;
+}
+
+.card figcaption {
+    padding: 10px;
+  }
+  
+
+.footer{
+    text-align: center;
+    justify-content: center;
+     margin: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    color: blue;
+
+}
+
+/* Estilos para os links */
+.links {
+    margin-top: 20px;
+  }
+  
+  .links a {
+    text-align: center;
+    display: block;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .links a:hover {
+    color: #fff;
+  }
+  
+  .links hr {
+    margin-top: 20px;
+    border: none;
+    border-top: 1px solid #ccc;
+  }
+
+  /* Media queries para responsividade */
+@media screen and (max-width: 768px) {
+    .cards {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .card {
+      width: 80%;
+    }
+  }
