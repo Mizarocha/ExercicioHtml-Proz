@@ -84,9 +84,12 @@ body {
 
   /* Media queries para responsividade */
 @media screen and (max-width: 768px) {
-    .cards {
+    .cards, .header, img {
       flex-direction: column;
       align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+
     }
   
 /*     .card {
