@@ -84,17 +84,18 @@ body {
 
   /* Media queries para responsividade */
 @media screen and (max-width: 768px) {
-    .cards, .header, img {
-      flex-direction: column;
-      align-items: center;
+    .cards, 
+   .header, 
+   img,
+.titulo span {
+    flex-direction: column;
+    align-items: center;
     display: flex;
     flex-wrap: wrap;
 
     }
   
-/*     .card {
-      width: 80%;
-    } */
+
 card img{
   width: 100%
 }
